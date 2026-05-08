@@ -32,7 +32,7 @@ Data Science & AI Enthusiast | Python Developer | Machine Learning Engineer
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### 🏠 House Price Prediction System
 
@@ -74,7 +74,7 @@ Created a complete ML pipeline with EDA, preprocessing, visualization & model ev
 
 # 💻 Tech Stack
 
-### 🚀 Languages
+### Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -136,7 +136,7 @@ Created a complete ML pipeline with EDA, preprocessing, visualization & model ev
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=SUJENPURTY&theme=tokyonight&hide_border=true" />
