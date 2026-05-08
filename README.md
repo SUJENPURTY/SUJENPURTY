@@ -139,14 +139,9 @@ Created a complete ML pipeline with EDA, preprocessing, visualization & model ev
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SUJENPURTY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-
   <img width="49%" src="https://streak-stats.demolab.com?user=SUJENPURTY&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJENPURTY&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+ </p>
 
 ---
 
