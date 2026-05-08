@@ -3,9 +3,6 @@
 <a href="https://github.com/SUJENPURTY">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=header&text=Sujen%20Purty&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Machine%20Learning&descSize=14&descAlignY=65&animation=fadeIn" alt="banner" />
 </a>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1800&color=00D4FF&center=true&vCenter=true&width=600&lines=Crafting+intelligent+AI+systems+with+Python;Designing+production-grade+ML+pipelines;Turning+data+into+decisions+%26+products;Exploring+LLMs%2C+Deep+Learning+%26+MLOps" alt="typing" />
-
 <p style="margin-top: 12px; margin-bottom: 0;">
   <a href="https://github.com/SUJENPURTY"><img src="https://komarev.com/ghpvc/?username=SUJENPURTY&label=Profile%20Views&color=00D4FF&style=flat-square" alt="profile views"/></a>
   <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineering-00D4FF?style=flat-square" alt="focus"/>
