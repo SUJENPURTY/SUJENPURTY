@@ -149,26 +149,33 @@ Full ML pipeline — **EDA**, preprocessing, and model evaluation in Jupyter.
 
 ## &nbsp;◆&nbsp;&nbsp;GitHub Insights
 
-<div align="center" style="margin: 16px 0;">
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUJENPURTY&theme=tokyonight"
+    alt="Sujen Purty GitHub Summary"
+  />
+</p>
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SUJENPURTY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SUJENPURTY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" />
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUJENPURTY&theme=tokyonight"
+        alt="Sujen Purty GitHub Stats"
+      />
+    </td>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SUJENPURTY&theme=tokyonight"
+        alt="Sujen Purty Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-</div>
-
-<div align="center" style="margin: 16px 0;">
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=SUJENPURTY&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF" alt="contribution graph"/>
-
-</div>
-
-<div align="center" style="margin: 16px 0;">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SUJENPURTY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="trophies"/>
-
-</div>
-
----
 
 ## &nbsp;◆&nbsp;&nbsp;Connect
 
@@ -180,6 +187,9 @@ Full ML pipeline — **EDA**, preprocessing, and model evaluation in Jupyter.
 <a href="https://www.instagram.com/sujenpurty1213/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
+
+
+
 
 <p align="center" style="margin-top: 12px; margin-bottom: 8px;">
   <sub><i>Building intelligent systems with AI, data, and a quiet obsession for craft.</i></sub>
