@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero.svg" alt="Hi, I'm Sujen Purty — Data Scientist, Data Analyst, AI/ML Enthusiast and Web Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/SUJENPURTY/SUJENPURTY/c1f9217/hero.svg" alt="Hi, I'm Sujen Purty — Data Scientist, Data Analyst, AI/ML Enthusiast and Web Developer" width="100%"/>
 
 **Data Scientist | Data Analyst | AI/ML Enthusiast | Web Developer**
 
