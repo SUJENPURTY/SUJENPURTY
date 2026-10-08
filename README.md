@@ -12,7 +12,7 @@ Integrated M.Sc. in **Quantitative Economics and Data Science** · **BIT Mesra**
 
 <br/><br/>
 
-<img src="./stack.svg" alt="Skills: Python, SQL, JavaScript, TypeScript, ML, deep learning, NLP, generative AI, Pandas, NumPy, Scikit-learn, Power BI, Tableau, Excel, statistics, React, Next.js, Flask, FastAPI, PostgreSQL, Supabase, Git and GitHub" width="100%"/>
+<img src="./stack.svg?v=larger-text-2" alt="Skills: Python, SQL, JavaScript, TypeScript, ML, deep learning, NLP, generative AI, Pandas, NumPy, Scikit-learn, Power BI, Tableau, Excel, statistics, React, Next.js, Flask, FastAPI, PostgreSQL, Supabase, Git and GitHub" width="100%"/>
 
 <br/><br/>
 
