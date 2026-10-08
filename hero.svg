@@ -22,11 +22,11 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
 @keyframes draw{from{stroke-dashoffset:60}to{stroke-dashoffset:0}}
 </style>
 <linearGradient id="nameG" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
-  <stop offset="0" stop-color="#22d3ee" /><stop offset=".5" stop-color="#a78bfa" /><stop offset="1" stop-color="#f472b6" />
+  <stop offset="0" stop-color="#38bdf8" /><stop offset=".5" stop-color="#818cf8" /><stop offset="1" stop-color="#a78bfa" />
   <animateTransform attributeName="gradientTransform" type="translate" values="-.35 0;.35 0;-.35 0" dur="7s" repeatCount="indefinite" />
 </linearGradient>
 <linearGradient id="nameG2" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#22d3ee" /><stop offset=".55" stop-color="#a78bfa" /><stop offset="1" stop-color="#f472b6" />
+  <stop offset="0" stop-color="#38bdf8" /><stop offset=".55" stop-color="#818cf8" /><stop offset="1" stop-color="#a78bfa" />
 </linearGradient>
 <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0" stop-color="#000" /><stop offset=".26" stop-color="#fff" /><stop offset="1" stop-color="#fff" />
@@ -42,7 +42,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
 </mask>
 <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="13" cy="13" r=".9" fill="#ffffff" fill-opacity=".06" /></pattern>
 <filter id="blur60" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60" /></filter>
-<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b" /><feMerge><feMergeNode in="b" /><feMergeNode in="SourceGraphic" /></feMerge></filter>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="1.2" result="b" /><feMerge><feMergeNode in="b" /><feMergeNode in="SourceGraphic" /></feMerge></filter>
 <clipPath id="card"><rect width="1280" height="540" rx="26" /></clipPath>
 <clipPath id="hiClip"><rect x="60" y="130" width="330" height="46"><animate attributeName="width" values="0;0;330" keyTimes="0;.4167;1" dur="1.2s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.3 0 .2 1" /></rect></clipPath>
 <clipPath id="nameClip"><rect x="50" y="170" width="560" height="100"><animate attributeName="y" values="262;262;170" keyTimes="0;.5263;1" dur="1.9s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" /></rect></clipPath>
@@ -91,7 +91,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
   <text class="role jb" x="92" y="340" font-size="21" fill="#eceef6" opacity="1" style="animation-delay:1.9s">Data Scientist</text><text class="role jb" x="92" y="340" font-size="21" fill="#eceef6" opacity="0" style="animation-delay:4.9s">Data Analyst</text><text class="role jb" x="92" y="340" font-size="21" fill="#eceef6" opacity="0" style="animation-delay:7.9s">AI/ML Enthusiast</text><text class="role jb" x="92" y="340" font-size="21" fill="#eceef6" opacity="0" style="animation-delay:10.9s">Web Developer</text>
   <text class="sgm fu" x="64" y="392" font-size="18" fill="#8d93ab" style="animation-delay:2.5s">Turning data into insight with statistics and AI,</text>
   <text class="sgm fu" x="64" y="418" font-size="18" fill="#8d93ab" style="animation-delay:2.62s">and building useful, thoughtful web applications.</text>
-  <g class="fu" style="animation-delay:3.0s"><g transform="translate(72,453)"><path d="M0-8a6 6 0 0 1 6 6c0 4.5-6 10-6 10s-6-5.5-6-10a6 6 0 0 1 6-6z" fill="none" stroke="#22d3ee" stroke-width="1.8" /><circle cy="-2" r="2" fill="#22d3ee" /></g><text class="jb" x="88" y="458" font-size="14.5" fill="#8d93ab">BIT Mesra</text></g><g class="fu" style="animation-delay:3.15s"><g transform="translate(244,453)"><rect x="-7" y="-5" width="14" height="11" rx="2" fill="none" stroke="#a78bfa" stroke-width="1.8" /><path d="M-3-5v-2.5h6V-5" fill="none" stroke="#a78bfa" stroke-width="1.8" /></g><text class="jb" x="260" y="458" font-size="14.5" fill="#8d93ab">M.Sc.</text></g><g class="fu" style="animation-delay:3.3s"><g transform="translate(352,453)"><path d="M0-8l2.4 5 5.4.6-4 3.7 1.1 5.4L0 4 -4.9 6.7-3.8 1.3-7.8-2.4l5.4-.6z" fill="none" stroke="#f472b6" stroke-width="1.7" stroke-linejoin="round" /></g><text class="jb" x="368" y="458" font-size="14.5" fill="#8d93ab">Class of 2027</text></g>
+  <g class="fu" style="animation-delay:3.0s"><g transform="translate(72,453)"><path d="M0-8a6 6 0 0 1 6 6c0 4.5-6 10-6 10s-6-5.5-6-10a6 6 0 0 1 6-6z" fill="none" stroke="#22d3ee" stroke-width="1.8" /><circle cy="-2" r="2" fill="#22d3ee" /></g><text class="jb" x="88" y="458" font-size="14.5" fill="#8d93ab">BIT Mesra</text></g><g class="fu" style="animation-delay:3.15s"><g transform="translate(244,453)"><rect x="-7" y="-5" width="14" height="11" rx="2" fill="none" stroke="#a78bfa" stroke-width="1.8" /><path d="M-3-5v-2.5h6V-5" fill="none" stroke="#a78bfa" stroke-width="1.8" /></g><text class="jb" x="260" y="458" font-size="14.5" fill="#8d93ab">M.Sc.</text></g><g class="fu" style="animation-delay:3.3s"><g transform="translate(352,453)"><path d="M0-8l2.4 5 5.4.6-4 3.7 1.1 5.4L0 4 -4.9 6.7-3.8 1.3-7.8-2.4l5.4-.6z" fill="none" stroke="#f472b6" stroke-width="1.7" stroke-linejoin="round" /></g><text class="jb" x="368" y="458" font-size="12.5" fill="#8d93ab">Expected Graduation: 2027</text></g>
 </g>
 <rect x=".75" y=".75" width="1278.5" height="538.5" rx="25.5" fill="none" stroke="#262a42" stroke-width="1.5" />
 </svg>

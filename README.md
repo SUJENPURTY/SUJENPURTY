@@ -4,7 +4,7 @@
 
 **Data Scientist | Data Analyst | AI/ML Enthusiast | Web Developer**
 
-Integrated M.Sc. in **Quantitative Economics and Data Science** · **BIT Mesra** · **Class of 2027**
+Integrated M.Sc. in **Quantitative Economics and Data Science** · **BIT Mesra** · **Expected Graduation: 2027**
 
 <br/>
 
